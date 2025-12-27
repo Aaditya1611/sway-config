@@ -1,4 +1,4 @@
-**You need to install the following packages in order to use this config**
+**Install the following packages in order to use this config**
 
 
 You can find most of them on AUR, if you use a different distro than Arch linux, find these packages in your distro repository
@@ -21,12 +21,11 @@ git clone https://github.com/Aaditya1611/sway-config.github
 ```
 
 Now just copy the sway directory into your /home/$USER/.config directory.
-
 Then copy the waybar directory into your /home/$USER/.config directory.
 
 Restart your system and everything should work as expected.
 
-##Note
+## Note
 
 To use the Wallpaper provided in the repository:-
 Make a folder in /home/$USER/Pictures with this name "Wallpapers" and copy the image in the repo into this directory

@@ -1,0 +1,10 @@
+# Auto-dismiss notifications after 5 seconds
+default-timeout=5000
+
+# Optional: Add these common settings if you don't have them
+layer=overlay
+anchor=top-right
+
+[urgency=critical]
+default-timeout=0
+border-color=#BF616A
